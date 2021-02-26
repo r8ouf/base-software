@@ -1,2 +1,2 @@
-# base-software
-Basic needed softwares for a fresh deployment
+# Base-software
+Basic list of needed softwares for a fresh deployment
