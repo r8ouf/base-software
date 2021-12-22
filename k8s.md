@@ -7,6 +7,9 @@
 [kube-ps1](https://github.com/jonmosco/kube-ps1) prompt with context 
 [kubeshell](https://github.com/roubles/kubeshell) quickly go to a pod
 
+## Packages Ubuntu
+
+- kubetail
 
 ## List of aliases
 
