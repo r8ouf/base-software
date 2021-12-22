@@ -4,14 +4,25 @@ A list of packages for a new deployment on Ubuntu instance
 
 ## Packages - Generic
 
-multitail
-htop
-byobu
+ - multitail
+ - htop
+ - byobu
+ - pwgen
+ - zsh
 
+
+## Dev
+ - pastebinit
+ - git
+ - vim
+ - kubetail
 
 ## Networking
 
-vnstat
+ - vnstat
+ - mtr
+ - curl
+
 
 ## Security
 
